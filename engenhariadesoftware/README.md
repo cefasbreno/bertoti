@@ -13,8 +13,10 @@ Determina quão bem o sistema performará com o aumento escalar de usuários e r
 Determina quão rápido o sistema atenderá às requisições dos usuários, baseando-se no recursos disponíveis;
 ### Robustez:
 Determina a capacidade do sistema de manter-se operante, mesmo com erros de hardware, conexão ou energia;
-Extensibilidade: Determina quão fácil é de se aplicar extensões e melhorias ao sistema. Isso envolve muitas características, como arquitetura e engenharia de software;
-Testabilidade: Determina a qualidade do sistema ao realizar testes em seu desenvolvimento. Muito importante na qualidade de software, verifica a facilidade de aplicação de métodos e seus resultados.
+### Extensibilidade:
+Determina quão fácil é de se aplicar extensões e melhorias ao sistema. Isso envolve muitas características, como arquitetura e engenharia de software;
+### Testabilidade:
+Determina a qualidade do sistema ao realizar testes em seu desenvolvimento. Muito importante na qualidade de software, verifica a facilidade de aplicação de métodos e seus resultados.
 
 ## Trade-offs
 ### Monolito vs. microsserviços:
