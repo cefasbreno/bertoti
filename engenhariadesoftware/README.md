@@ -24,4 +24,4 @@ Ao optar pelo monolito, tem-se facilidade no desenvolvimento inicial, impactando
 ### 2. Performance vs. memória:
 Ao optar pela performance, utiliza-se também de mais memória. Isso é muito benéfico, porém, pode perder usuários que possuem máquinas menos potentes;
 ### 3. Tempo de implementação vs. qualidade do código:
-Manter-se à frente da concorrência a todo custo exige atualizações constantes e profundas. Para isso, a qualidade do código é preterida para dar lugar a novas mecânicas, que acabam se tornando problemáticas com o tempo, necessitando de manutenções futuras.
+Manter-se à frente da concorrência a todo custo exige atualizações constantes e profundas. Para isso, a qualidade do código é preterida para dar lugar a novas mecânicas, que podem ser pouco testadas.
