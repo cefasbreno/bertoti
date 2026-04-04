@@ -1,9 +1,9 @@
-# Atividade 1
+## Atividade 1
 
-## Artigo 1
+### Artigo 1
 As engenharias mais tradicionais, como mecânica e civil, são caracterizadas por serem tangíveis, possuírem regras rigorosas e métodos comprovados empiricamente. A engenharia de software, por sua vez, não possui tais características, o que a diferencia de todas as outras. Os engenheiros de software se diferenciam de outros por trabalharem com algo que não existe no mundo físico de forma natural. Um engenheiro elétrico, mesmo não a vendo a olhos nus, consegue saber se há ou não corrente elétrica em um sistema, pois a eletricidade é uma propriedade e pode ser medida. Por isso, a engenharia de software é tratada de maneira diferente das outras, pois não trabalha com algo totalmente tátil, mas sim com algoritmos e lógicas criados de humanos para humanos.
 
-## Artigo 2
+### Artigo 2
 Um código não é só escrito por programadores uma vez e dura para sempre. Na verdade, quando se escreve um programa, seja qual for sua finalidade, é preciso ter estratégias de abordagem externas capazes de manter o código funcional através do tempo. O artigo utiliza o termo "código sustentável" para designar um código que está apto para receber mudanças futuras em sua estrutura. É um processo trabalhoso, e as organizações têm se dedicado à descobrir abordagens que priorizem essa característica de sustentabilidade em software, pois esse trabalho resulta em menos desgastes com manutenções excessivas e perca de utilidade.
 
 ## Requisitos não-funcionais
