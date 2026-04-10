@@ -27,3 +27,18 @@ Ao optar pelo monolito, tem-se facilidade no desenvolvimento inicial, impactando
 Ao optar pela performance, utiliza-se também de mais memória. Isso é muito benéfico para popularidade, mas pode perder usuários que possuem máquinas menos potentes;
 ### 3. Tempo de implementação vs. qualidade do código:
 Manter-se à frente da concorrência a todo custo exige atualizações constantes e profundas. Para isso, a qualidade do código é preterida para dar lugar a novas mecânicas, que podem ser pouco testadas.
+
+## Atividade 5
+## É possível testar tudo?
+
+```C#
+int blech (int j) {
+   j = j - 1; // deveria ser j = j + 1
+   j = j/30000;
+   return j;
+}
+```
+## Quantas entradas mostram o erro? E quais são?
+Somente 4 entradas, no intervalo de -32768 a 32767, sendo elas 30000, 29999, -29999 e -30000.
+
+Essas 4 entradas quando inseridas no código, seja ele incorreto (como demonstrado) ou correto, apresentam o mesmo resultado, mascarando um defeito que passaria despercebido em todas as outras entradas do intervalo mencionado.
